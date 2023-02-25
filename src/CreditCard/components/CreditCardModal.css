@@ -1,0 +1,46 @@
+.modal2 {
+    max-height: 420px !important;
+    max-width: 600px !important;
+   
+}
+
+.header-text {
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.btn-rojo{
+    background-color:rgb(255, 0, 0);
+    border-radius: 53px;
+    border-color: #ff0000;
+   /* color: rgb(255, 0, 0);*/
+}
+
+.btn-azul{
+    background-color:#212e46;
+    border-radius: 53px;
+    border-color: #212e46;
+    color: white;
+   /* color: rgb(255, 0, 0);*/
+}
+
+.back-color{
+    background-color:#212e46;
+}
+
+/*
+.select-size{
+    display:block;
+    height:35px;
+    width:170px;
+}
+
+.model-container1{
+    float:left;
+}
+*/
+
+.altura{
+    height: 300px;
+}
